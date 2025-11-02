@@ -1,5 +1,7 @@
 # Twin Star Tarot
-<img src="/twinstartarot/images/taroreading.jpg" alt="taro image">
+
+
+<img src="/twinstartarot/images/taro.png" alt="taro image">
 
 ## Blog posts
 
