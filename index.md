@@ -10,11 +10,11 @@ Here's the deal, **I like Tolkien**.
 
 ## Blog posts
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+- [Why Megan is More Impressive than them all](/content/meg)
 
-## Reasons I like Tolkien
+- [The Unparalleled Majesty of Brook](/content/brook)
+
+## Reasons I like Readings
 
 - You can spend years studying the legendarium and still not understand its depths
 - It can be enjoyed by children and adults alike
@@ -33,14 +33,6 @@ Here's the deal, **I like Tolkien**.
 8. Sauron
 9. Aragorn
 
-Here's what `elflang` looks like (the perfect coding language):
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
 
 Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
