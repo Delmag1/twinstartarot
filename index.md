@@ -10,9 +10,9 @@ Here's the deal, **I like Tolkien**.
 
 ## Blog posts
 
-- [Why Megan is More Impressive than them all](/content/readers/meg)
+- [Why Megan is More Impressive than them all](/Readers/Megan)
 
-- [The Unparalleled Majesty of Brook](/content/readers/brook)
+- [The Unparalleled Majesty of Brook](/Readers/Brook)
 
 ## Reasons I like Readings
 
