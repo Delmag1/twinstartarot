@@ -1,7 +1,7 @@
 # Twin Star Tarot
 
 
-<img src="/twinstartarot/images/taro.png" alt="taro image">
+![taro image](/images/taro.png)
 
 ## Blog posts
 
