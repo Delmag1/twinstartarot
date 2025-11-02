@@ -1,4 +1,4 @@
-# Tolkien Fan Club
+# Twin Star Tarot
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
