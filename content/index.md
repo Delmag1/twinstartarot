@@ -10,9 +10,8 @@ Here's the deal, **I like Tolkien**.
 
 ## Blog posts
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+- [Why Megan is More Impressive than them all](/content/meg)
+- [The Unparalleled Majesty of Brook](/content/meg)
 
 ## Reasons I like Tolkien
 
