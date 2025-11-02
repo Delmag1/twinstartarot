@@ -14,7 +14,9 @@ In a land nearby i look at palms and minds.
 
 
 
-1. An elaborate pantheon of deities (the Greek and the Roamsn)
+1. An elaborate pantheon of deities (the Greek and the Romans)
+
 2. 
+
 3. 
 
