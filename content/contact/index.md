@@ -1,9 +1,7 @@
-# Contact the Author
+# Contact the Twin Tarots
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Give me a call anytime to chat about tarot!
 
 `555-555-5555`
-
-**"Váya márië."**
