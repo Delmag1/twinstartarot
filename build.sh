@@ -1,1 +1,1 @@
-python3 src/main.py "/twinstartarot/"
+python3 src/main.py "/twinstartarot/websitecontent/"
